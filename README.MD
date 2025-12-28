@@ -44,7 +44,7 @@ python main.py
 
 ---
 
-## Project structure 🔧
+## Project structure
 
 - `main.py` — Minimal entrypoint; starts the UI
 - `interface.py` — `AutoFisherUI` class and tkinter UI
